@@ -15,7 +15,7 @@ Checkout Time for Users displays the 'Number of Bikes' and the length of the tri
 ![This is an image](https://github.com/ddigioac/bike-sharing/blob/0a555a5a9004465939b9e3c66a491ef5e5f8004a/Checkout%20Time%20for%20Users.png)
 
 Trips by Weekday for Each Hour displays when the most trips ended ('Stopttime') for each day of the week. 
-![This is an image]()
+![This is an image](https://github.com/ddigioac/bike-sharing/blob/1c40594c424045b3a3b190a6e8f08c9268ddf546/Trips%20by%20Weekday%20for%20Each%20Hour.png)
 
 Trips by Gender displays the number of trips for each 'Weekday', along with the hour of 'Starttime', with an additional breakdown by 'Gender'
 ![This is an image]()
