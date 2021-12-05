@@ -9,18 +9,23 @@ In this analysis I will be creating visualizations consisting of bike-sharing da
 ## Bike-sharing Results
 
 Tripduration displays the 'Number of Bikes' and the length of the trip recorded in 'Minutes'.
+
 ![This is an image](https://github.com/ddigioac/bike-sharing/blob/6cf476541ca0545c68119520180b9e70fc225967/Tripduration.png)
 
 Checkout Time for Users displays the 'Number of Bikes' and the length of the trip recorded in 'Minutes' with an additional breakdown by 'Gender'.
+
 ![This is an image](https://github.com/ddigioac/bike-sharing/blob/0a555a5a9004465939b9e3c66a491ef5e5f8004a/Checkout%20Time%20for%20Users.png)
 
 Trips by Weekday for Each Hour displays when the most trips ended ('Stopttime') for each day of the week. 
+
 ![This is an image](https://github.com/ddigioac/bike-sharing/blob/1c40594c424045b3a3b190a6e8f08c9268ddf546/Trips%20by%20Weekday%20for%20Each%20Hour.png)
 
 Trips by Gender displays the number of trips for each 'Weekday', along with the hour of 'Starttime', with an additional breakdown by 'Gender'
+
 ![This is an image](https://github.com/ddigioac/bike-sharing/blob/ca48b6a7310769e06f1c3aa0946cbe37637c78b6/Trips%20by%20Gender.png)
 
 User Trips by Gender by Weekday displays the number of bike trips by 'Uesrtype' (Customer or Subscriber) for each 'Weekday' with an additional breakdown by 'Gender'
+
 ![This is an image](https://github.com/ddigioac/bike-sharing/blob/65aa49bd04343d247dd6416fcfaf0d519b4e304b/User%20Trips%20by%20Gender%20by%20Weekday.png)
 
 Top Starting Locations displays the number of bike trips per 'Starting Location' on a map.
