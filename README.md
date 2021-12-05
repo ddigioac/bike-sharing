@@ -12,7 +12,7 @@ Tripduration displays the 'Number of Bikes' and the length of the trip recorded 
 ![This is an image](https://github.com/ddigioac/bike-sharing/blob/6cf476541ca0545c68119520180b9e70fc225967/Tripduration.png)
 
 Checkout Time for Users displays the 'Number of Bikes' and the length of the trip recorded in 'Minutes' with an additional breakdown by 'Gender'.
-![This is an image]()
+![This is an image](https://github.com/ddigioac/bike-sharing/blob/0a555a5a9004465939b9e3c66a491ef5e5f8004a/Checkout%20Time%20for%20Users.png)
 
 Trips by Weekday for Each Hour displays when the most trips ended ('Stopttime') for each day of the week. 
 ![This is an image]()
