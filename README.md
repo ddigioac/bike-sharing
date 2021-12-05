@@ -33,7 +33,8 @@ Top Starting Locations displays the number of bike trips per 'Starting Location'
 ![This is an image](https://github.com/ddigioac/bike-sharing/blob/94671d9f2b8d04e00488125dee015790d74145a0/Top%20Starting%20Locations.png)
 
 Gender Breakdown displays the number of bike trips broken down by 'Gender'
-![This is an image]()
+
+![This is an image](https://github.com/ddigioac/bike-sharing/blob/5780afaead31f4389c147a4b696dc4ddd07fe9b2/Gender%20Breakdown.png)
 
 ## Bike-sharing Summary 
 
