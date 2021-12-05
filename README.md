@@ -21,7 +21,7 @@ Trips by Gender displays the number of trips for each 'Weekday', along with the 
 ![This is an image](https://github.com/ddigioac/bike-sharing/blob/ca48b6a7310769e06f1c3aa0946cbe37637c78b6/Trips%20by%20Gender.png)
 
 User Trips by Gender by Weekday displays the number of bike trips by 'Uesrtype' (Customer or Subscriber) for each 'Weekday' with an additional breakdown by 'Gender'
-![This is an image]()
+![This is an image](https://github.com/ddigioac/bike-sharing/blob/65aa49bd04343d247dd6416fcfaf0d519b4e304b/User%20Trips%20by%20Gender%20by%20Weekday.png)
 
 Top Starting Locations displays the number of bike trips per 'Starting Location' on a map.
 ![This is an image]()
