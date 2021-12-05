@@ -9,7 +9,7 @@ In this analysis I will be creating visualizations consisting of bike-sharing da
 ## Bike-sharing Results
 
 Tripduration displays the 'Number of Bikes' and the length of the trip recorded in 'Minutes'.
-![This is an image]()
+![This is an image](https://github.com/ddigioac/bike-sharing/blob/6cf476541ca0545c68119520180b9e70fc225967/Tripduration.png)
 
 Checkout Time for Users displays the 'Number of Bikes' and the length of the trip recorded in 'Minutes' with an additional breakdown by 'Gender'.
 ![This is an image]()
